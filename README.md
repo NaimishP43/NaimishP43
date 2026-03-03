@@ -2,8 +2,7 @@
 - ✅ 3 years of experience in manual testing across web base applications
 - 🔍 Skilled in writing and executing detailed test cases, bug reporting, and regression testing
 - 🧰 Familiar with tools like JIRA, Selenium, Appium and Postman
-- 🧪 Basic understanding of test automation concepts and frameworks
-- 📚 Currently learning Selenium, Java, and TestNG to transition into automation testing
+- 📚 Utilize Selenium, Java, and TestNG to create automated testing frameworks.
 - 🤝 Strong collaboration skills with developers, product owners, and cross-functional teams
 - 🚀 Focused on delivering high-quality, user-friendly software through rigorous testing
 <!---
